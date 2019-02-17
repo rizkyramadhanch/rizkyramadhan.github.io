@@ -10,9 +10,9 @@ My identities below :
 ```
 
 |Nama|:   |Rizky Ramadhan   | 
-|---|---|
+|---|---|---|
 | Address  | : | Jl.trs kopo - cicukang no.16   | 
 |  education |  : |widyatama University   |
-|   |   |  
+|   |   |   |
 
 
