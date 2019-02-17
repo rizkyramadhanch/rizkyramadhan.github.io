@@ -9,10 +9,8 @@ facebook    : rizkyramadhanfr
 My identities below :
 ```
 
-|Nama|:   |Rizky Ramadhan   | 
-|---|---|---|
-| Address  | : | Jl.trs kopo - cicukang no.16   | 
-|  education |  : |widyatama University   |
-|   |   |   |
-
-
+| Name      |  : |               Rizky Ramadhan |
+|-----------|:--:|-----------------------------:|
+| Address   |  : | Jl.trs kopo - cicukang no.16 |
+| education |  : |         widyatama University |
+| Hobby     |  : |  Coding, science, technology |
