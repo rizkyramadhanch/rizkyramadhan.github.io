@@ -6,7 +6,7 @@ instagram   : rizkyramadhan32_
 facebook    : rizkyramadhanfr
 ```
 
-#My identities below :
+# My identities below
 
 
 | Name      |  : |               Rizky Ramadhan |
