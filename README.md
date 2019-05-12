@@ -1,2 +1,2 @@
-# mycv
+# rizkyramadhan.github.io
 
